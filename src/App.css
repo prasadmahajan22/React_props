@@ -1,0 +1,22 @@
+.final_div{
+    min-height: 100vh;
+    background-color : blanchedalmond;
+    padding-top : 1px;
+    padding-bottom : 2rem;
+}
+
+.heading{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 900;
+    font-style: italic;
+    color: black;
+    margin: 2rem 0;
+}
+
+.cards-cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+}

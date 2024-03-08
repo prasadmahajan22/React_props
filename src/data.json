@@ -1,0 +1,51 @@
+[
+    {
+        "color" : "Pink",
+        "colorcode" : "#C71585"
+    },
+
+    {
+        "color" : "Crimson",
+        "colorcode" : "#DC143C"
+    },
+
+    {
+        "color" : "Tomato",
+        "colorcode" : "#FF6347"
+    },
+
+    {
+        "color" : "Gold",
+        "colorcode" : "#FFD700"
+    },
+
+    {
+        "color" : "Violet",
+        "colorcode" : "#EE82EE"
+    },
+
+    {
+        "color" : "Lime",
+        "colorcode" : "#00FF00"
+    },
+
+    {
+        "color" : "Aqua",
+        "colorcode" : "#00FFFF"
+    },
+
+    {
+        "color" : "Gray",
+        "colorcode" : "#808080"
+    },
+
+    {
+        "color" : "Brown",
+        "colorcode" : "#A52A2A"
+    },
+
+    {
+        "color" : "Blue",
+        "colorcode" : "#0000FF"
+    }
+]
